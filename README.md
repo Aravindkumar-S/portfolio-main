@@ -11,7 +11,6 @@ Portfolio-main/ │── index.html  # Main landing page │── styles.css  
 ## 🛠️ Technologies Used
 - HTML5 & CSS3
 - JavaScript
-- Flask (if applicable)
 - GitHub Pages (or your hosting service)
 
 ## ⚡ Features
